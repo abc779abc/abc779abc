@@ -1,0 +1,63 @@
+body {
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+  }
+  
+  header {
+    background: rgb(200, 104, 209);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;}
+    .logotype {
+        width: 150px;
+        height: 150px;}
+main {
+  background: rgb(0, 0, 0);
+  padding: 50px;
+}
+footer {
+    background: rgb(214, 106, 4);
+    padding: 50px;
+  }
+  
+  .logotype {
+    width: 100px;
+    height: 100px;
+  }
+  
+  a {
+    color: #fff;
+  }
+  
+  form {
+    padding: 100px;
+    background: rgb(49, 102, 80);
+  }
+  
+  #name {
+    padding: 40px;
+    width: 500px;
+  }
+  
+  #password {
+    padding: 40px;
+    width: 500px;
+  }
+  
+  #button-reques {
+    background: rgb(49, 25, 77);
+    font-size: 70px;
+    margin: 70px;
+    border-radius: 10px;
+  }
+  
+  
+  footer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  ul {
+  
+  }
